@@ -1,0 +1,8 @@
+-- File: task_4.sql
+-- Displays the full table creation statement for
+--              the 'books' table in the 'alx_book_store' database.
+--              (DESCRIBE or EXPLAIN are not used.)
+-- Script to show full description of books table
+
+
+SHOW CREATE TABLE books;
