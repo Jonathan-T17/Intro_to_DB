@@ -1,6 +1,8 @@
 -- task_4.sql
 -- Print the full description of the table 'books' from the database 'alx_book_store'
 
+USE alx_book_store;
+
 
 SELECT TABLE_NAME,
 COLUMN_NAME,
